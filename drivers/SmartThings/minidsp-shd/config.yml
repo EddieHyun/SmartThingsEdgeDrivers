@@ -1,0 +1,8 @@
+name: 'MiniDSP SHD'
+packageKey: 'minidsp-shd'
+permissions:
+  lan: {}
+  discovery: {}
+description: "SmartThings Edge Driver for MiniDSP SHD controlled via Volumio HTTP API"
+defaultProfile: 'minidsp-shd'
+vendorSupportInformation: "https://github.com/EddieHyun/SmartThingsEdgeDrivers"
